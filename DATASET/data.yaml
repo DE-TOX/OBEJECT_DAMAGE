@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['minor', 'moderate', 'severe']
+
+roboflow:
+  workspace: crash
+  project: car-models-yeaf8
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/crash/car-models-yeaf8/dataset/1
