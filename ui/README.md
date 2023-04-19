@@ -4,7 +4,7 @@
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone 
+git clone https://github.com/DE-TOX/OBEJECT_DAMAGE.git
 ```
 - Goto the cloned folder.
 ```
